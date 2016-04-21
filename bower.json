@@ -1,0 +1,11 @@
+{
+  "name": "angular-material-start",
+  "version": "0.0.1",
+  "authors": [
+    "salvadorcoronelflores@gmail.com"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-material": "~1.0.7"
+  }
+}
